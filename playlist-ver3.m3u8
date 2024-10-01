@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1,ABC TV ENG
+http://167.88.39.239:8000/play/a010/index.m3u8
+#EXTINF:-1,Altanto TV RD
+http://167.88.39.239:8000/play/a005/index.m3u8
+#EXTINF:-1,Animal Planet HD ENG
+http://167.88.39.239:8000/play/a01c/index.m3u8
+#EXTINF:-1,Anime TV BR
+http://167.88.39.239:8000/play/a013/index.m3u8
+#EXTINF:-1,Antena 21 RD
+http://167.88.39.239:8000/play/a007/index.m3u8
+#EXTINF:-1,Antena 7 RD
+http://167.88.39.239:8000/play/a006/index.m3u8
+#EXTINF:-1,BBC News ENG
+http://167.88.39.239:8000/play/a01k/index.m3u8
+#EXTINF:-1,BabyFirst ENG
+http://167.88.39.239:8000/play/a01f/index.m3u8
+#EXTINF:-1,CBS Sports Network USA
+http://167.88.39.239:8000/play/a01h/index.m3u8
+#EXTINF:-1,CDN RD
+http://167.88.39.239:8000/play/a008/index.m3u8
+#EXTINF:-1,CDN deporte RD
+http://167.88.39.239:8000/play/a009/index.m3u8
+#EXTINF:-1,Cartonito HD
+http://167.88.39.239:8000/play/a01d/index.m3u8
+#EXTINF:-1,Comedy Central east ENG
+http://167.88.39.239:8000/play/a01l/index.m3u8
+#EXTINF:-1,Digital 15 RD
+http://167.88.39.239:8000/play/a00a/index.m3u8
+#EXTINF:-1,Discovery Bangla HD
+http://167.88.39.239:8000/play/a01b/index.m3u8
+#EXTINF:-1,Disney Channel ENG
+http://167.88.39.239:8000/play/a00x/index.m3u8
+#EXTINF:-1,Disney Channel ESP
+http://167.88.39.239:8000/play/a00m/index.m3u8
+#EXTINF:-1,Disney JR ENG
+http://167.88.39.239:8000/play/a015/index.m3u8
+#EXTINF:-1,Disney XD ENG
+http://167.88.39.239:8000/play/a00t/index.m3u8
+#EXTINF:-1,District of Columbia Network 1080 ENG
+http://167.88.39.239:8000/play/a016/index.m3u8
+#EXTINF:-1,GarageTV ESP
+http://167.88.39.239:8000/play/a00u/index.m3u8
+#EXTINF:-1,HBO 2 EAST
+http://167.88.39.239:8000/play/a01g/index.m3u8
+#EXTINF:-1,Haiti News
+http://167.88.39.239:8000/play/a00l/index.m3u8
+#EXTINF:-1,Inter TV ITA
+http://167.88.39.239:8000/play/a01m/index.m3u8
+#EXTINF:-1,La Voz Maria RD
+http://167.88.39.239:8000/play/a00b/index.m3u8
+#EXTINF:-1,MEGAVISION RD
+http://167.88.39.239:8000/play/a00g/index.m3u8
+#EXTINF:-1,MLB NETWORK
+http://167.88.39.239:8000/play/a012/index.m3u8
+#EXTINF:-1,NFL NETWORK ENG
+http://167.88.39.239:8000/play/a011/index.m3u8
+#EXTINF:-1,Paramount Network East
+http://167.88.39.239:8000/play/a01j/index.m3u8
+#EXTINF:-1,RDTV RD
+http://167.88.39.239:8000/play/a00f/index.m3u8
+#EXTINF:-1,RNN RD
+http://167.88.39.239:8000/play/a00h/index.m3u8
+#EXTINF:-1,RT News (1080p) [Geo-blocked] ENG
+http://167.88.39.239:8000/play/a019/index.m3u8
+#EXTINF:-1,RT en Español (1080p) [Geo-blocked]
+http://167.88.39.239:8000/play/a018/index.m3u8
+#EXTINF:-1,Real Madrid tv
+http://167.88.39.239:8000/play/a01e/index.m3u8
+#EXTINF:-1,RedBull TV ESP
+http://167.88.39.239:8000/play/a00r/index.m3u8
+#EXTINF:-1,Sony Movies ENG
+http://167.88.39.239:8000/play/a01i/index.m3u8
+#EXTINF:-1,SportsGrid (1080p) ENG
+http://167.88.39.239:8000/play/a01a/index.m3u8
+#EXTINF:-1,TRA noticias RD
+http://167.88.39.239:8000/play/a00k/index.m3u8
+#EXTINF:-1,Telecentro RD
+http://167.88.39.239:8000/play/a00e/index.m3u8
+#EXTINF:-1,Telefuturo RD
+http://167.88.39.239:8000/play/a00i/index.m3u8
+#EXTINF:-1,Telemicro RD
+http://167.88.39.239:8000/play/a00d/index.m3u8
+#EXTINF:-1,Telemundo ESP
+http://167.88.39.239:8000/play/a00w/index.m3u8
+#EXTINF:-1,Telenord RD
+http://167.88.39.239:8000/play/a00c/index.m3u8
+#EXTINF:-1,Televida RD
+http://167.88.39.239:8000/play/a00j/index.m3u8
+#EXTINF:-1,azteca internacional
+http://167.88.39.239:8000/play/a00o/index.m3u8
+#EXTINF:-1,cine sony ESP
+http://167.88.39.239:8000/play/a00s/index.m3u8
+#EXTINF:-1,platzi tv ESP
+http://167.88.39.239:8000/play/a017/index.m3u8
+#EXTINF:-1,plim plim ESP
+http://167.88.39.239:8000/play/a00p/index.m3u8
+#EXTINF:-1,sony novelas ESP
+http://167.88.39.239:8000/play/a00v/index.m3u8
