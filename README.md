@@ -20,7 +20,7 @@ We are thrilled to announce the deployment of our new Ticket Platform! Through t
 - Report quality issues (e.g., low resolution, lagging).
 - Submit any other concerns related to our M3U8 streaming files.
   
-Our team is available around the clock to assist you. For immediate support, visit our Help Desk at helphesk.icu, where you can get help 24/7 with any technical issue.
+Our team is available around the clock to assist you. For immediate support, visit our Help Desk at https://helphesk.icu, where you can get help 24/7 with any technical issue.
 
 Feel free to contribute, suggest new channels, or report any broken links. Let’s make this the go-to source for M3U8 streams!
 
