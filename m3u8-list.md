@@ -59,9 +59,9 @@ We invite you to visit our official website to obtain the most up-to-date IPTV l
 - **Vision NDV**
 - **Wapa TV**
 
-To get access to these channels and more, visit [our website](https://your-website.com). We also offer **technical support 7 days a week**, so feel free to reach out if you encounter any issues or need assistance.
+To get access to these channels and more, visit [our website](https://rdtv.live). We also offer **technical support 7 days a week**, so feel free to reach out if you encounter any issues or need assistance.
 
 Thank you for choosing our service!
 
 Best regards,  
-**[Your Team Name]**
+**[rdtv-live]**
